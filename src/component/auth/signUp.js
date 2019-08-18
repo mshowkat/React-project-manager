@@ -40,7 +40,7 @@ class SignUp extends Component {
                         <label htmlFor="password">Confrim Password</label>
                         <input type="password" id='password' onChange={this.handleChange} />
                     </div>
-                    <div className="container">
+                    <div>
                         <button className="btn btn-large cyan hoverable">Register</button>
                     </div>
                 </form>

@@ -26,7 +26,7 @@ import React, { Component } from 'react'
                         <label htmlFor="password">Password</label>
                         <input type="password" id='password' onChange={this.handleChange} />
                     </div>
-                    <div className="container">
+                    <div>
                         <button className="btn btn-large cyan hoverable">Login</button>
                     </div>
                 </form>
