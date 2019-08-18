@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ProjectSummery = () => {
+const ProjectSummary = () => {
     return (
         <div>
             <div className="card z-depth-0 project-summary">
@@ -14,4 +14,4 @@ const ProjectSummery = () => {
     )
 }
 
-export default ProjectSummery
+export default ProjectSummary
